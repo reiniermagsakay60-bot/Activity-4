@@ -1,27 +1,27 @@
-/* CSS Variables for Light and Dark Themes (Pink & Gold Theme) */
+
 :root {
-    --bg-color: #fff0f5;         /* Soft Lavender Blush / Light Pink */
-    --text-color: #3d2b3d;       /* Dark Mauve / Charcoal for readable text */
-    --card-bg: #ffffff;          /* Clean White Card Background */
-    --primary-color: #d4af37;    /* Classic Metallic Gold */
-    --primary-hover: #b89628;    /* Darker Gold on Hover */
-    --accent-pink: #e60067;      /* Deep Rose Pink */
-    --nav-bg: #ffffff;          /* White Navigation Bar */
-    --border-color: #f3c2d4;     /* Soft Pink Border */
+    --bg-color: #fff0f5;         
+    --text-color: #3d2b3d;       
+    --card-bg: #ffffff;          
+    --primary-color: #d4af37;    
+    --primary-hover: #b89628;   
+    --accent-pink: #e60067;      
+    --nav-bg: #ffffff;          
+    --border-color: #f3c2d4;     
 }
 
 [data-theme="dark"] {
-    --bg-color: #1a0f18;         /* Deep Dark Rose/Plum */
-    --text-color: #fce4ec;       /* Soft Light Pink Text */
-    --card-bg: #2a1826;          /* Dark Velvet Card Background */
-    --primary-color: #f1c40f;    /* Bright Gold */
-    --primary-hover: #ffd700;    /* Golden Yellow Hover */
-    --accent-pink: #ff66a3;      /* Bright Accent Pink */
-    --nav-bg: #221220;          /* Dark Rose Header */
-    --border-color: #4a243b;     /* Dark Magenta Border */
+    --bg-color: #1a0f18;         
+    --text-color: #fce4ec;       
+    --card-bg: #2a1826;          
+    --primary-color: #f1c40f;    
+    --primary-hover: #ffd700;    
+    --accent-pink: #ff66a3;     
+    --nav-bg: #221220;          
+    --border-color: #4a243b;    
 }
 
-/* Global Styles */
+
 * {
     margin: 0;
     padding: 0;
